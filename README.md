@@ -24,16 +24,22 @@ part c : Theory answers
 
 3. Supervised machine learning is trained using labelled data while unsupervised machine learning uses unlabeled data
 
-4. in liner Regression the algorithm is trained using known datasets like x for features and y for labels whereby the machine calculates the relationship between the two and predict the future events
+4. in linear Regression the algorithm is trained using known datasets like x for features and y for labels whereby the machine calculates the relationship between the two and predict the future events
 
 5. KMeans is considered unsupervised learning because it does not use labelled data it carries out multiple training using different datasets and does continuous training until it understands
 
  6. fit() is a programming method used to train a model on data while predict() is a programming method used to generate values from new data points using a trained model
 
 7. Applications of supervised  learning
+
+   
    -in medicine AI analyses patient helth records labelled by doctors to detect early signs of medical conditions
+   
    - filters spams in gmail
 
   Applications of unsupervised learning
+
+  
   -by retailers to group customers based on previous purchases in order to target marketing campaigns
+  
   -financial systems learn earnings and transaction types to flag any unusual transactions as fraud
